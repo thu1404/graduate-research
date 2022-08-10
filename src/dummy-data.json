@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "Jenny Chan",
+      "studentID": "20184310",
+      "dob": "20-01-2000",
+      "email": "jenny.chan@email.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Jessica warren",
+      "studentID": "20186780",
+      "dob": "21-05-2000",
+      "email": "jessica.warren@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Tony Frank",
+      "studentID": "20134510",
+      "dob": "21-05-2000",
+      "email": "tony.frank@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Jeremy Clark",
+      "studentID": "20154310",
+      "dob": "20-07-2004",
+      "email": "jeremy.clark@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Raymond Edwards",
+      "studentID":"20184312",
+      "dob": "02-01-2000",
+      "email": "raymon.edwards@email.com"
+    }
+  ]

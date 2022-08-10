@@ -1,0 +1,22 @@
+.game {
+    border: solid;
+    border-width: 1px;
+    margin: auto;
+    padding: 10px;
+    padding-bottom: 10px;
+}
+
+.game-board {
+    float: left;
+    margin-right: 50px;
+
+}
+
+.controller {
+    float: right;
+    border-width: 1px;
+    border-style: solid;
+    height: 615px;
+    width: 550px;
+
+}

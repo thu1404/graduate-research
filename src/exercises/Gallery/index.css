@@ -1,0 +1,24 @@
+.item {
+    width: 480px;
+    height: 270px;
+    margin: 5px;
+
+}
+
+.image-item {
+    border: solid;
+    border-width: 1px;
+    padding-bottom: 5px;
+    height: 275px;
+    margin-bottom: 0%;
+}
+
+
+.gallery {
+    /* width: 600px; */
+    display: grid;
+    row-gap: 0px;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 280px;
+
+}

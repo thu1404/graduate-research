@@ -1,0 +1,35 @@
+#gameboard {
+    background-color: white;
+    width: 466px;
+    height: 615px;
+    display: flex;
+    flex-wrap: wrap;
+    float: left;
+}
+
+#gameboard .tile {
+    width: 75px;
+    height: 75px;
+
+
+}
+
+.tile {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    font-size: 10px;
+}
+
+.wall {
+
+    background-color: rgb(129, 129, 173);
+}
+
+.marioIcon {
+    width: 60px;
+}
+
+.current-position {
+    background-color: rgb(179, 179, 144);
+}
